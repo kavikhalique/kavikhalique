@@ -22,15 +22,11 @@ Here are some ideas to get you started:
 
 <p align="left"> <a href="https://twitter.com/kavikhalique2" target="blank"><img src="https://img.shields.io/twitter/follow/kavikhalique2?logo=twitter&style=for-the-badge" alt="kavikhalique2" /></a> </p>
 
-- 🔭 I’m currently working on [NITA ClubSpot](https://github.com/kavikhalique/NITA_ClubSpot)
-
-- 🌱 I’m currently learning **Node.js Express.js**
-
 - 👨‍💻 All of my projects are available at [https://github.com/kavikhalique](https://github.com/kavikhalique)
 
 - 📫 How to reach me **kavikhalique2@gmail.com**
 
-- ⚡ Fun fact **I am Competitive programmer as well as Developer**
+- ⚡ Fun fact **I am a noob**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
