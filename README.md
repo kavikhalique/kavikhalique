@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 
 - 📫 How to reach me **kavikhalique2@gmail.com**
 
-- ⚡ Fun fact **I am a noob**
+<!-- - ⚡ Fun fact **I am a noob** -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
